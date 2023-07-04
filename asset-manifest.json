@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/approve-forms/static/css/main.a73ec38c.css",
+    "main.js": "/approve-forms/static/js/main.a26133b1.js",
+    "static/js/703.a2541aef.chunk.js": "/approve-forms/static/js/703.a2541aef.chunk.js",
+    "static/js/617.425ac412.chunk.js": "/approve-forms/static/js/617.425ac412.chunk.js",
+    "static/js/787.4566c3a1.chunk.js": "/approve-forms/static/js/787.4566c3a1.chunk.js",
+    "static/media/logo.png": "/approve-forms/static/media/logo.d3f12056ac332380f1b3.png",
+    "static/media/ProximaNovaFont.otf": "/approve-forms/static/media/ProximaNovaFont.7bc9ce404c297c24f210.otf",
+    "static/media/info.png": "/approve-forms/static/media/info.dd8280d3a7f38a4620f3.png",
+    "static/media/ProximaNovaAltLight.otf": "/approve-forms/static/media/ProximaNovaAltLight.3a7c914cbc8035135c38.otf",
+    "index.html": "/approve-forms/index.html",
+    "main.a73ec38c.css.map": "/approve-forms/static/css/main.a73ec38c.css.map",
+    "main.a26133b1.js.map": "/approve-forms/static/js/main.a26133b1.js.map",
+    "703.a2541aef.chunk.js.map": "/approve-forms/static/js/703.a2541aef.chunk.js.map",
+    "617.425ac412.chunk.js.map": "/approve-forms/static/js/617.425ac412.chunk.js.map",
+    "787.4566c3a1.chunk.js.map": "/approve-forms/static/js/787.4566c3a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a73ec38c.css",
+    "static/js/main.a26133b1.js"
+  ]
+}
